@@ -1,4 +1,4 @@
-sudo pacman -S --needed hyprland hyprpaper hyprlock hyprpolkitagent xdg-desktop-portal-hyprland qt5-wayland qt6-wayland wofi waybar kitti gedit \
+sudo pacman -S --needed hyprland hyprpaper hyprlock hyprpolkitagent xdg-desktop-portal-hyprland qt5-wayland qt6-wayland wofi waybar kitty gedit \
 pipewire pipewire-alsa pipewire-audio pipewire-jack pipewire-pulse \
 power-profiles-daemon \
 networkmanager network-manager-applet nm-connection-editor \
